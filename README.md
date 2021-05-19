@@ -14,11 +14,11 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 
-1.	Implemente um programa que dado um número (N) (lido do Teclado) aloque dinamicamente um vetor de (N) inteiros, usando o comando Malloc. Peça ao utilizador os N números e calcule a média aritmética.
+1.	Implemente um programa que dado um número (`n`) (lido do Teclado) aloque dinamicamente um vetor de (N) inteiros, usando o comando `malloc`. Peça ao utilizador os `n` números e calcule a média aritmética.
 
 2.	Implemente um programa que solicita ao utilizador as notas dos alunos e aloque-as dinamicamente. No final devolva a nota maior e a menor. O utilizador terá de introduzir -1 para terminar de inserir notas.
 
-3.	Implemente a função myStrdup que cria uma nova string exatamente igual à que lhe foi passada por parâmetro.
+3.	Implemente a função `myStrdup` que cria uma nova string exatamente igual à que lhe foi passada por parâmetro.
 
 4.	Implemente uma estrutura clássica denominada Fila de Espera. Uma fila caracteriza-se por manter a regra “O primeiro a entrar é o primeiro a sair”, obedecendo assim a uma estratégia FIFO (First In- First Out).
 
