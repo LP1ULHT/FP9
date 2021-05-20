@@ -14,7 +14,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 
-1.	Implemente um programa que dado um número (`n`) (lido do Teclado) aloque dinamicamente um vetor de (N) inteiros, usando o comando `malloc`. Peça ao utilizador os `n` números e calcule a média aritmética.
+1.	Implemente um programa que dado um número (`n`) (lido do Teclado) aloque dinamicamente um vetor de (`n`) inteiros, usando o comando `malloc`. Peça ao utilizador os `n` números e calcule a média aritmética.
 
 2.	Implemente um programa que solicita ao utilizador as notas dos alunos e aloque-as dinamicamente. No final devolva a nota maior e a menor. O utilizador terá de introduzir -1 para terminar de inserir notas.
 
