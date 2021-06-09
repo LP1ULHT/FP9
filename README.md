@@ -38,7 +38,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 5. Crie um programa que pede o nome e idade de um numero indefinido de pessoas, os insere de forma ordenada numa lista ligada, e no final imprime a informação, libertando gradualmente a memoria alocada. Passos:
     * Deverá definir um tipo adequado para guardar, numa lista ligada, a informação de cada pessoa.
-    * O programa deverá pedir ao utilizador para inserir o nome. Se inserir fim, termina a inserção. Senão, pede a idade, e insere na lista.
+    * O programa deverá pedir ao utilizador para inserir o nome. Se inserir fim, termina a inserção. Senão, pede a idade, insere-o na lista, e volta a pedir um nome.
     * Cada nova pessoa deverá ser inserida de forma ordenada na lista, crescentemente de acordo com a idade.
     * Quando for inserida a palavra 'fim', deverá finalizar a inserção de elementos na lista.
     * De seguida deverá imprimir na consola a informação da lista, percorrendo-a do inicio ao fim, libertando gradualmente a memória alocada.
