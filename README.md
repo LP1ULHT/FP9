@@ -35,3 +35,9 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
          iv. Listar – Mostra a fila.
     
      c.	Escreva um pequeno programa que teste a implementação da fila.
+
+5. Crie um programa que pede o nome e idade de um numero indefinido de pessoas, os insere de forma ordenada numa lista ligada, e no final imprime a informação, libertando gradualmente a memoria alocada. Passos:
+    * Deverá definir um tipo adequado para guardar, numa lista ligada, a informação de cada pessoa.
+    * Cada nova pessoa deverá ser inserida de forma ordenada na lista, crescentemente de acordo com a idade.
+    * Quando for inserida a palavra 'fim', deverá finalizar a inserção de elementos na lista.
+    * De seguida deverá imprimir na consola a informação da lista, percorrendo-a do inicio ao fim, libertando gradualmente a memória alocada.
